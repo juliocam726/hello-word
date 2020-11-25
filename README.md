@@ -1,2 +1,4 @@
 # hello-word
-primer repositorio
+primer repositorios
+Hola  este es mi primer repositorio 
+//prueba//
